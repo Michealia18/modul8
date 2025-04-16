@@ -1,0 +1,30 @@
+nama: Michealia
+Email: riyanhidayat5798lo@gmail.com
+Alamat: sdfs
+Produk: hp
+Jumlah: 5
+-----------------------
+nama: Michealia
+Email: riyanhidayat5798lo@gmail.com
+Alamat: pasar usang
+Produk: hp
+Jumlah: 5
+-----------------------
+nama: Michealia
+Email: riyanhidayat5798lo@gmail.com
+Alamat: wrssfsf
+Produk: hp
+Jumlah: 5
+-----------------------
+nama: riyan hidyat
+Email: michealia092006@gmail.com
+Alamat: pasar usang
+Produk: hp
+Jumlah: 5
+-----------------------
+nama: riyan hidyat
+Email: michealia092006@gmail.com
+Alamat: awdfrwt5
+Produk: hp
+Jumlah: 5
+-----------------------
